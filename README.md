@@ -79,3 +79,57 @@ Provides:
 
 ## Contact Page
 Allows users to contact the organization through a contact form.
+
+## Website Structure
+Home
+│
+├── About Us
+├── Health Services
+├── Health Education
+├── Health Alerts
+├── Emergency Contacts
+└── Contact Us
+
+## Technologies Used
+	•	HTML5
+	•	CSS3
+	•	Responsive Web Design
+	•	Basic JavaScript
+
+## Digital Public Good (DPG) Alignment
+
+This project aligns with Digital Public Good principles because:
+
+## Digital
+
+The platform uses web technologies to deliver healthcare information online.
+
+## Public
+
+The information is freely available to all citizens.
+
+## Good
+
+The platform promotes healthcare awareness and improves access to healthcare resources.
+
+
+## Benefits
+	•	Improves healthcare awareness.
+	•	Promotes disease prevention.
+	•	Provides easy access to healthcare information.
+	•	Supports citizens in locating healthcare services.
+	•	Encourages healthier communities.
+
+## Future Improvements
+
+Potential future enhancements include:
+	•	Online appointment booking.
+	•	Hospital directory search system.
+	•	Doctor directory.
+	•	Multilingual support.
+	•	Voice-assisted navigation.
+	•	Mobile application integration.
+
+## Conclusion
+
+Sierra Health Connect is a healthcare information platform developed to address the challenge of limited access to healthcare information in Sierra Leone. By providing health education, healthcare facility information, emergency contacts, and public health updates, the platform contributes to improved healthcare awareness and accessibility. The project demonstrates how web technologies can be used to solve real-world problems and improve the well-being of citizens.
